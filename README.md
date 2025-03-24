@@ -1,4 +1,4 @@
-# NDSA Backbone Program Manager Portfolio
+# Program Manager Portfolio
 
 Welcome! This repository showcases a curated selection of my recent program management and operational leadership work as part of my candidacy for the NDSA Backbone Program Manager role.
 
@@ -9,12 +9,6 @@ I specialize in building sustainable systems that streamline processes and enhan
 ## Executive Summary
 
 As a Program Management professional, I am dedicated to building scalable, sustainable systems that streamline operations and strengthen stakeholder commitment. My work is grounded in operational rigor, proactive problem-solving, and fostering team empowerment. Below are selected examples of my recent contributions that illustrate my approach to driving program success and advancing organizational objectives.
-
----
-
-# Avery Impact Overview | NDSA Backbone Program Manager Portfolio
-
-**Adrienne [Last Name]**
 
 ---
 
@@ -96,11 +90,6 @@ As a Program Management professional, I am dedicated to building scalable, susta
 - Event & Content Production Management
 
 ---
-
-**Adrienne [Last Name]**  
-Program Management Maestro  
-[Email] | [Phone] | [LinkedIn URL]  
-#ShineBrightly #OpsWithAvery
 
 For more about my work:  
 🔗 [OpsWithAvery GitHub Profile](https://github.com/OpsWithAvery)  
